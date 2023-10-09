@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Srihari M!</h1>
 <h3 align="center">A passionate developer, every hungry for code!</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sriharimurali01" alt="sriharimurali01" /></a> </p>
-
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and all the accompanying stuff!**
 
 - 📝 I regularly write articles on [https://medium.com/@srihari2003](https://medium.com/@srihari2003)
@@ -28,4 +26,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharimurali01&show_icons=true&locale=en&layout=compact" alt="sriharimurali01" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sriharimurali01&show_icons=true&locale=en" alt="sriharimurali01" /></p>
-
