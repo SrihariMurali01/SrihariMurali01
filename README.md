@@ -1,7 +1,7 @@
 <h1 align="center">Welcome to the Github residence of Srihari M 👋</h1>
 <h3 align="center">A passionate developer, every hungry for code!</h3>
 <p align="center">
-  <img src=https://images.weserv.nl/?url=https://avatars.githubusercontent.com/u/68637095?v=4&h=200&w=200&fit=cover&mask=circle&maxage=7d>
+  <img src=https://github.com/SrihariMurali01/SrihariMurali01/assets/68637095/0eef4ff6-6202-4d64-b7f9-4321002bbaf9 width="200" height="200">
 </p>
 
 - 🌱 I’m currently learning **Machine Learning, Artificial Intelligence and all the accompanying stuff!**
