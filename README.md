@@ -29,13 +29,15 @@
 </p>
 
 ### Some of my starred works include:
-1. [Digit Recogniser - Neural Networks](https://github.com/SrihariMurali01/digit-recognizer)
-2. [Student-Database-Managament-System](https://github.com/SrihariMurali01/Student-Database-Managament-System)
-3. [Password Manager](https://github.com/SrihariMurali01/Password-manager)
-4. [Email Checker for Assignments](https://github.com/SrihariMurali01/Email-Checker_RNSIT)
-5. [Pomodoro Timer](https://github.com/SrihariMurali01/Pomodoro-Timer)
 
-#### You can check-out all of my works at: [Repos](https://github.com/SrihariMurali01?tab=repositories)
+1. [Digit Recogniser - Neural Networks](https://github.com/SrihariMurali01/digit-recognizer)
+2. [Movie Recommender System using SNN](https://github.com/SrihariMurali01/Recommender_System_For_Movies)
+3. [Student-Database-Managament-System](https://github.com/SrihariMurali01/Student-Database-Managament-System)
+4. [Password Manager](https://github.com/SrihariMurali01/Password-manager)
+5. [Email Checker for Assignments](https://github.com/SrihariMurali01/Email-Checker_RNSIT)
+6. [Pomodoro Timer](https://github.com/SrihariMurali01/Pomodoro-Timer)
+
+#### You can check out all of my works at [Repos](https://github.com/SrihariMurali01?tab=repositories)
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sriharimurali01&show_icons=true&locale=en&layout=compact" alt="sriharimurali01" /></p>
 
